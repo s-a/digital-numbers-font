@@ -1,5 +1,5 @@
 # Digital Numbers Font
-A webfont to display digital numbers
+A webfont to display digital numbers in a cool liquid-crystal display (LCD) style. 
 
 # Showcase
 ![Showcase](/showcase.png?raw=true "Showcase")  
