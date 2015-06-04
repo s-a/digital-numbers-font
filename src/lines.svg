@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="28mm"
+   height="56mm"
+   viewBox="0 0 99.212598 198.4252"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="line.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="34.58017"
+     inkscape:cy="127.98486"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-853.93701)">
+    <image
+       y="900.48718"
+       x="29.464285"
+       id="image3921"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAcCAYAAABYvS47AAAABHNCSVQICAgIfAhkiAAAAE1JREFU
+OI3t1DEOACAIQ9F+73/nOpkYgsLgKPNLKQvYVmdGS3Uh4BICLhMXusIdHWFEKcxQ2fHDDyVJtmkn
+Zvi4OuJrxx2XxyzM808xAVb7GzOeWxiIAAAAAElFTkSuQmCC
+"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="35"
+       width="12.5" />
+    <path
+       style="fill-opacity:1"
+       d="m 59.99972,905.01876 -3.75,3.59375 -3.75,3.5918 0,1.69922 -0.0039,0.004 0,7.72265 0,7.72266 3.75,3.41016 3.75,3.41015 0,-14.46094 c 0,-0.12379 -0.0019,-0.22653 -0.002,-0.34961 7.59e-4,-0.38554 0.0059,-0.71658 0.0059,-1.10937 l 0,-15.23438 z"
+       id="path3944"
+       inkscape:connector-curvature="0" />
+    <image
+       y="879.14795"
+       x="20.535715"
+       id="image4088"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAGCAYAAADHYm6gAAAABHNCSVQICAgIfAhkiAAAADlJREFU
+KJG1kSkSACAQwxr+/+egFhAojriadKZFTQHMcIDKcKnXwl0BSZ5Ki/ZDmiRt3eUVKvw6rwOmlBv7
+C7PbEAAAAABJRU5ErkJggg==
+"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="7.5"
+       width="27.5" />
+    <path
+       style="fill-opacity:1"
+       d="m 56.622841,900.66581 -2.426412,-1.875 2.426412,-1.875 2.426412,-1.875 9.522176,0 9.522176,0 2.426411,1.875 2.426413,1.875 -2.426413,1.875 -2.426411,1.875 -9.522176,0 -9.522176,0 -2.426412,-1.875 z"
+       id="path4091"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

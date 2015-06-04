@@ -1,0 +1,24 @@
+body,html{
+	background-color: rgb(12,20,31);
+	color: rgb(255,230,77);
+}
+
+h1{
+	color: rgb(223,116,12);
+}
+
+.icon-{
+	color: rgb(111,195,223);
+	text-shadow: rgb(255, 255, 255) 0px 0px 10px !important;
+}
+
+#testDrive2{
+	font-size: 112px;
+	text-align: right;
+}
+
+.textbox0, input{
+	background-color: #0d0d0d;
+	border-color: #0e0e0e;
+	color: rgb(111,195,223);
+}
