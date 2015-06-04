@@ -1,6 +1,6 @@
 (function(){
 
-	var i = 1;
+	var i = -201;
 	window.onload = function() {
 		var display = document.getElementById("testDrive2");
 		window.setInterval(function() {
