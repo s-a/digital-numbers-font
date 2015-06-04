@@ -1,5 +1,14 @@
-# digital-numbers-font
-A webfont to show digital numbers
+# Digital Numbers Font
+A webfont to display digital numbers
+
+# Showcase
+![Showcase](/showcase.png?raw=true "Showcase")  
+
+#Demo 
+https://s-a.github.io/digital-numbers-font/  
+https://s-a.github.io/digital-numbers-font/demo/demo.html  
+
+
 
 # License
 [<img src="https://s-a.github.io/license/img/mit.svg" />](https://s-a.github.io/license/?license=mit&fullname=Stephan%20Ahlf&year=2015&profile=https://github.com/s-a&projectUrl=https://github.com/s-a/digital-numbers-font&projectName=digital-numbers-font "") 
@@ -7,4 +16,4 @@ A webfont to show digital numbers
 
 
 # Credits
-Font generated with https://icomoon.io
+Font files and demo pages are generated with https://icomoon.io
