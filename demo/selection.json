@@ -11,7 +11,7 @@
 				],
 				"isMulticolor": false,
 				"width": 688,
-				"grid": 0,
+				"grid": 32,
 				"tags": [
 					"base"
 				]
@@ -50,7 +50,7 @@
 				],
 				"isMulticolor": false,
 				"width": 688,
-				"grid": 0,
+				"grid": 32,
 				"tags": [
 					"digital"
 				]
@@ -86,7 +86,7 @@
 				],
 				"isMulticolor": false,
 				"width": 688,
-				"grid": 0,
+				"grid": 32,
 				"tags": [
 					"digital"
 				]
@@ -96,7 +96,7 @@
 				{}
 			],
 			"properties": {
-				"order": 4,
+				"order": 13,
 				"id": 0,
 				"prevSize": 16,
 				"code": 49,
@@ -124,7 +124,7 @@
 				],
 				"isMulticolor": false,
 				"width": 688,
-				"grid": 0,
+				"grid": 32,
 				"tags": [
 					"digital"
 				]
@@ -165,7 +165,7 @@
 				],
 				"isMulticolor": false,
 				"width": 688,
-				"grid": 0,
+				"grid": 32,
 				"tags": [
 					"base"
 				]
@@ -182,7 +182,7 @@
 				"id": 5,
 				"prevSize": 16,
 				"code": 51,
-				"name": "base5"
+				"name": "three"
 			},
 			"setIdx": 0,
 			"setId": 1,
@@ -204,7 +204,7 @@
 				],
 				"isMulticolor": false,
 				"width": 688,
-				"grid": 0,
+				"grid": 32,
 				"tags": [
 					"digital"
 				]
@@ -244,7 +244,7 @@
 				],
 				"isMulticolor": false,
 				"width": 688,
-				"grid": 0,
+				"grid": 32,
 				"tags": [
 					"digital"
 				]
@@ -287,7 +287,7 @@
 				],
 				"isMulticolor": false,
 				"width": 688,
-				"grid": 0,
+				"grid": 32,
 				"tags": [
 					"digital"
 				]
@@ -325,7 +325,7 @@
 				],
 				"isMulticolor": false,
 				"width": 688,
-				"grid": 0,
+				"grid": 32,
 				"tags": [
 					"digital"
 				]
@@ -368,7 +368,7 @@
 				],
 				"isMulticolor": false,
 				"width": 688,
-				"grid": 0,
+				"grid": 32,
 				"tags": [
 					"digital"
 				]
@@ -411,7 +411,7 @@
 				],
 				"isMulticolor": false,
 				"width": 688,
-				"grid": 0,
+				"grid": 32,
 				"tags": [
 					"digital"
 				]
@@ -472,7 +472,8 @@
 			"showMetrics": false,
 			"showMetadata": true,
 			"showVersion": true,
-			"resetPoint": 58880
+			"resetPoint": 58880,
+			"ligaReset": "tags"
 		},
 		"imagePref": {
 			"prefix": "icon-",
@@ -480,7 +481,10 @@
 			"useClassSelector": true,
 			"color": 4473924,
 			"bgColor": 16777215,
-			"classSelector": ".icon"
+			"classSelector": ".icon",
+			"columns": 16,
+			"margin": 16,
+			"height": 32
 		},
 		"historySize": 100,
 		"showCodes": true,

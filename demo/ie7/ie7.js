@@ -17,7 +17,7 @@
 		'icon-zero': '&#x30;',
 		'icon-one': '&#x31;',
 		'icon-two': '&#x32;',
-		'icon-base5': '&#x33;',
+		'icon-three': '&#x33;',
 		'icon-four': '&#x34;',
 		'icon-five': '&#x35;',
 		'icon-six': '&#x36;',
