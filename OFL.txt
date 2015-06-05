@@ -1,4 +1,4 @@
-Copyright (c) 2015, Stephan Ahlf (https:),
+Copyright (c) 2015, Stephan Ahlf (https://github.com/s-a/digital-numbers-font),
 with no Reserved Font Name.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
