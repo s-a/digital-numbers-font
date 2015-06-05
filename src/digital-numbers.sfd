@@ -1,11 +1,11 @@
 SplineFontDB: 3.0
-FontName: Untitled1
-FullName: Untitled1
-FamilyName: Untitled1
+FontName: sa-digital-number
+FullName: sa-digital-number
+FamilyName: sa-digital-number
 Weight: Regular
-Copyright: Copyright (c) 2015, Anonymous
+Copyright: Copyright (c) 2015, Stephan Ahlf (https:) with no Reserved Font Name.  \nThis Font Software is licensed under the SIL Open Font License, Version 1.1.
 UComments: "2015-6-5: Created with FontForge (http://fontforge.org)"
-Version: 001.000
+Version: 001.100
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1433487616
-ModificationTime: 1433494692
+ModificationTime: 1433498704
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -35,6 +35,7 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
 DEI: 91125
 Encoding: ISO8859-1
 UnicodeInterp: none
@@ -43,6 +44,8 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
 WinInfo: 0 29 11
+BeginPrivate: 0
+EndPrivate
 BeginChars: 256 40
 
 StartChar: E
