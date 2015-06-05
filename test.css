@@ -12,8 +12,11 @@ h1{
 	text-shadow: rgb(255, 255, 255) 0px 0px 10px !important;
 }
 
+#testDrive1{
+}
+
 #testDrive2{
-	font-size: 112px;
+	font-size: 90px;
 	text-align: right;
 }
 
