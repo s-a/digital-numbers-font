@@ -1,11 +1,11 @@
 SplineFontDB: 3.0
-FontName: sa-digital-number
-FullName: sa-digital-number
-FamilyName: sa-digital-number
+FontName: DigitalNumbers-Regular
+FullName: Digital Numbers
+FamilyName: Digital Numbers
 Weight: Regular
-Copyright: Copyright (c) 2015, Stephan Ahlf (https://github.com/s-a/digital-numbers-font) with no Reserved Font Name.  \nThis Font Software is licensed under the SIL Open Font License, Version 1.1.
+Copyright: Copyright (c) 2015, Stephan Ahlf (https://github.com/s-a/digital-numbers-font stephan.ahlf@googlemail.com)
 UComments: "2015-6-5: Created with FontForge (http://fontforge.org)"
-Version: 001.100
+Version: 001.101
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -19,31 +19,31 @@ XUID: [1021 128 -81606342 30374]
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
-OS2_UseTypoMetrics: 1
+OS2_UseTypoMetrics: 0
 CreationTime: 1433487616
-ModificationTime: 1433536836
+ModificationTime: 1433541419
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
-LineGap: 90
+LineGap: 0
 VLineGap: 0
-OS2TypoAscent: 0
-OS2TypoAOffset: 1
-OS2TypoDescent: 0
-OS2TypoDOffset: 1
-OS2TypoLinegap: 90
-OS2WinAscent: 0
-OS2WinAOffset: 1
-OS2WinDescent: 0
-OS2WinDOffset: 1
-HheadAscent: 0
-HheadAOffset: 1
-HheadDescent: 0
-HheadDOffset: 1
+OS2TypoAscent: 974
+OS2TypoAOffset: 0
+OS2TypoDescent: -317
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 974
+OS2WinAOffset: 0
+OS2WinDescent: 317
+OS2WinDOffset: 0
+HheadAscent: 974
+HheadAOffset: 0
+HheadDescent: -317
+HheadDOffset: 0
 OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1." "http://scripts.sil.org/OFL"
 Encoding: ISO8859-1
 UnicodeInterp: none
 NameList: AGL For New Fonts
