@@ -2,7 +2,7 @@ import fontforge
 font = fontforge.open("../src/digital-numbers.sfd")
 for glyph in font.glyphs():
     glyph.round()
-    #glyph.correctDirection()
+    glyph.correctDirection()
     glyph.removeOverlap()
     glyph.addExtrema()
     glyph.simplify()
