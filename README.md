@@ -24,5 +24,5 @@ Copyright (c) 2015, Stephan Ahlf (https://github.com/s-a/digital-numbers-font st
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
 ## Credits
-
-Demo pages are generated with https://icomoon.io
+ - Font files created with [FontForge](http://fontforge.org)
+ - Thanks to [davelab6](https://github.com/davelab6 "Dave Crossland") for help
