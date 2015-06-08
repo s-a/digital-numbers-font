@@ -1,6 +1,6 @@
 # Digital Numbers Font
 
-A webfont to display digital numbers in a cool liquid-crystal display (LCD) style. 
+Digital Numbers is a fixed width (web)font in a cool liquid-crystal display (LCD) style.
 
 ## Showcase
 
