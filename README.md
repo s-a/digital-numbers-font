@@ -1,5 +1,6 @@
 # Digital Numbers Font
 
+[![Donate](http://s-a.github.io/donate/donate.svg)](http://s-a.github.io/donate/)  
 Digital Numbers is a fixed width (web)font in a cool liquid-crystal display (LCD) style.
 
 ## Showcase
