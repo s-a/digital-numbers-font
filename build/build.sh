@@ -10,3 +10,4 @@ mv  ../dist/sa-digital-number.eot  ../dist/DigitalNumbers-Regular.eot
 mv  ../dist/sa-digital-number.svg  ../dist/DigitalNumbers-Regular.svg
 mv  ../dist/sa-digital-number.ttf  ../dist/DigitalNumbers-Regular.ttf
 mv  ../dist/sa-digital-number.woff  ../dist/DigitalNumbers-Regular.woff
+mv  ../dist/sa-digital-number.woff2  ../dist/DigitalNumbers-Regular.woff2
